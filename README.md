@@ -1,4 +1,3 @@
-# bookscomparision
 # Book Comparison Project
 
 # Overview
